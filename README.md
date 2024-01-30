@@ -37,8 +37,3 @@ I'm Carles, a Technical Director of Engineering at [New Work SE](https://github.
 
 [Configure a VPN server using L2TP IPSec with Mikrotik RouterOS](https://www.notesoncloudcomputing.com/routeros/mikrotik/vpn/2020/08/02/configure-vpn-server-l2tp-ipsec-mikrotik-routeros.html) - 2020-08-02
 
-<!-- blog ends -->
-
-More on [notesoncloudcomputing.com](https://www.notesoncloudcomputing.com/)
-
-![background](https://www.notesoncloudcomputing.com/assets/images/bg-index.jpg)
